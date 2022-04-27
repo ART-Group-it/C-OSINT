@@ -19,3 +19,5 @@
 
 ## Basic Information:
 C-OSINT is a python framework for extracting web pages (regular or onion) over the TOR network and the surface web.
+
+- **Warning:** Crawling is not illegal, but copyright infringement is. It's always best to double check a website's T&Cs before crawling it. Some websites set what is called robots.txt to tell the crawlers not to visit those pages. We always recommend complying with robots.txt.
