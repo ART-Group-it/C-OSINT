@@ -17,3 +17,5 @@
 
 </pre>
 
+## Basic Information:
+C-OSINT is a python framework for extracting web pages (regular or onion) over the TOR network and the surface web.
