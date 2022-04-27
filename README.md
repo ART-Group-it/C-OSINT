@@ -1,7 +1,12 @@
 # C-OSINT
 
-[![Version](https://img.shields.io/badge/version-1.2-green.svg?style=plastic)]() [![Python](https://img.shields.io/badge/python-v3-blue.svg?style=plastic)]() [![license](https://img.shields.io/github/license/MikeMeliz/TorCrawl.py.svg?style=plastic)]()
-
+ [![Python](https://img.shields.io/badge/python-v3-blue.svg?style=plastic)]() [![license](https://img.shields.io/github/license/MikeMeliz/TorCrawl.py.svg?style=plastic)]()
+  <a href="https://github.com/SeleniumHQ/selenium">
+      <img src="https://img.shields.io/badge/built%20with-Selenium-yellow.svg" />
+    </a>
+    <a href="https://www.python.org/">
+    	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
+    </a>
 
 
  <pre>
