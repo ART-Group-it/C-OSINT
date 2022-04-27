@@ -32,7 +32,7 @@ C-OSINT is a python framework for extracting web pages (regular or onion) over t
 ## Logical Organization:
 The framework is divided into three parts:
 - Extractor and scraper [C-OSINT-e](https://github.com/ART-Group-it/C-OSINT/tree/main/Scraper);
-- Cleaner and corpus constructor [C-OSINT-d] (https://github.com/ART-Group-it/C-OSINT/tree/main/Scraper);
-- NLP based classifiers [C-OSINT-c] (https://github.com/ART-Group-it/C-OSINT/tree/main/Models);
+- Cleaner and corpus constructor [C-OSINT-d](https://github.com/ART-Group-it/C-OSINT/tree/main/Scraper);
+- NLP based classifiers [C-OSINT-c](https://github.com/ART-Group-it/C-OSINT/tree/main/Models);
 
 
