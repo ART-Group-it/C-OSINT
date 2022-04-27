@@ -6,8 +6,6 @@
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>
-    [![license](https://img.shields.io/github/license/MikeMeliz/TorCrawl.py.svg?style=plastic)]()
-
 
  <pre>
 
